@@ -17,6 +17,7 @@ Este proyecto es una aplicación de consola desarrollada en Java. Permite gestio
 
 ## 🧩 Estructura del Proyecto
 
+```
 farmacia-jdbc/
 ├── model/ → Clases de dominio (Cliente, Pedido)
 ├── dao/ → Interfaces DAO (generics y específicas)
@@ -27,7 +28,7 @@ farmacia-jdbc/
 ├── logs/ → Salida de logs (app.log)
 ├── script_creacion.sql
 └── build.gradle
-
+```
 
 ---
 
