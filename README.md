@@ -36,15 +36,15 @@ farmacia-jdbc/
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/TU_USUARIO/farmacia-jdbc.git
-cd farmacia-jdbc
+- git clone https://github.com/FacuBront/farmacia-jdbc.git
+- cd farmacia-jdbc
 ### 2. Abrir el proyecto en IntelliJ IDEA
 - Usar Open y seleccionar la carpeta
 
 - Esperar que Gradle sincronice
 
 ### 3. Ejecutar desde consola
-./gradlew run
+- ./gradlew run
 ### 4. O desde IntelliJ
 - Ir a src/main/java/main/Main.java
 
